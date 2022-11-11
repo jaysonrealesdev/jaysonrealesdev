@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based from Philippines.
-- :telescope: I’m working as a Front-end Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Front-end Developer and contributing frontend design for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
